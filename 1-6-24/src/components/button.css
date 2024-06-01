@@ -1,0 +1,10 @@
+.btn {
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 10 10 10 10;
+}
+
+.btn:hover {
+    background-color: aquamarine;
+}
